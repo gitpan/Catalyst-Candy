@@ -1,0 +1,35 @@
+==================================================
+Changes from 1739-09-26 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2013-07-10 00:10:09 +0000
+------------------------------------------
+
+  Change: 0eeecfcd1aba033bf58118e0661adc24f000b135
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-07-10 02:06:39 +0000
+
+    A bit more serious test, which also looks good hehe ;) 
+
+  Change: 0e5559b18be48159ca6d33de25078030cb2ad696
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-07-10 01:52:38 +0000
+
+    added travis.yml, added forgotten namespace autoclean requirement 
+
+  Change: 3561fdd61a0a7bc6ec782ffac086ec7f22ce906b
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-07-10 01:50:02 +0000
+
+    Lets see..... could use some more tests tho... 
+
+  Change: 36ed71cbe9937480ecdd3f695a628c4567be1c3b
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2013-07-09 21:53:48 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
